@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{3C001605-FF79-4379-B1A2-801D61434537}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.TotalOnlineStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TotalOnlineStore\Properties\Management.cs">
+    <Files>
+      <File FileName="TotalOnlineStore\Program.cs" Line="39" Column="65" />
+      <File FileName="TotalOnlineStore\Properties\User.cs" Line="17" Column="25" />
+      <File FileName="TotalOnlineStore\Properties\UserTest.cs" Line="23" Column="37" />
+      <File FileName="TotalOnlineStore\Properties\Customer.cs" Line="29" Column="1" />
+      <File FileName="TotalOnlineStore\Properties\Salesman.cs" Line="25" Column="160" />
+      <File FileName="TotalOnlineStore\Properties\Deliveryman.cs" Line="10" Column="16" />
+      <File FileName="TotalOnlineStore\Properties\Management.cs" Line="250" Column="18" />
+      <File FileName="TotalOnlineStore\Properties\Order.cs" Line="56" Column="29" />
+      <File FileName="TotalOnlineStore\Properties\OrderTest.cs" Line="47" Column="4" />
+      <File FileName="TotalOnlineStore\Properties\Stock.cs" Line="48" Column="7" />
+      <File FileName="TotalOnlineStore\Properties\StockType.cs" Line="6" Column="6" />
+      <File FileName="TotalOnlineStore\Properties\StockTest.cs" Line="19" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
